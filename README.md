@@ -1,6 +1,8 @@
 # Google-Home-Chatbot
 Voice and Chatbot for Google Home. Playing around with Google Codelab and Firebase.
 
+*Below README is from Google: Codelabs.
+
 
 # Actions on Google: Codelabs
 
